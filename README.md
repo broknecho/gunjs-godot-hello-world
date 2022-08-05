@@ -37,3 +37,5 @@ These are the steps needed to get this working in the godot example project:
 ### Godot Project Notes
 
 All code needed is in the `GunTest.gd` File.  You can see the gdscript is almost 1:1 with the javascript hello world equivalent.
+
+![image](https://user-images.githubusercontent.com/3253547/183144482-4c22faee-3539-4428-bebc-5db7cd220d77.png)
