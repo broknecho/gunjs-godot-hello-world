@@ -8,7 +8,7 @@ This project is a proof of concept to connect the Web release version of a Godot
 [Godot Demo](https://timely-mochi-97e33c.netlify.app/)  
 [Gun Hello World](https://gun.eco/docs/Hello-World)
 
-In the Gun Hellow world, you need to change the line:
+In the Gun Hello world, you need to change the line:
 ```js
 copy = gun.get('test').get('paste');
 ```
